@@ -1,0 +1,9 @@
+{
+    "initial_distance": 1000,
+    "same_artist_bonus": 10,
+    "same_album_bonus": 15,
+    "genres_intersection_multiplier": 5,
+    "related_genres_intersection_multiplier": 4,
+    "related_artists_intersection_multiplier": 3,
+    "generic_genres_intersection_multiplier": 2
+}
