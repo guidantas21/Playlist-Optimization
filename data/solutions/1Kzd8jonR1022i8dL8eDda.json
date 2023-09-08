@@ -1,0 +1,39 @@
+{
+    "found_tour": true,
+    "success": true,
+    "hit_timebound": false,
+    "tour": [
+        0,
+        3,
+        8,
+        2,
+        7,
+        4,
+        5,
+        6,
+        1
+    ],
+    "optimal_value": 7063.0,
+    "tour_ids": [
+        "0NWPxcsf5vdjdiFUI8NgkP",
+        "4N0TP4Rmj6QQezWV88ARNJ",
+        "3a1lNhkSLSkpJE4MSHpDu9",
+        "0V3wPSX9ygBnCm8psDIegu",
+        "50DMG6AvtNzbrxMc62w6ph",
+        "0PUi8C3der9IVNFaksxTiw",
+        "6gZVQvQZOFpzIy3HblJ20F",
+        "6MKqed1tCXHRonfqhwPCET",
+        "2MuWTIM3b0YEAskbeeFE1i"
+    ],
+    "tour_names": [
+        "Hey Joe",
+        "Superstition",
+        "Congratulations",
+        "Anti-Hero",
+        "Bold as Love",
+        "Rain",
+        "Man in the Box",
+        "When A Blind Man Cries",
+        "Master Of Puppets"
+    ]
+}
